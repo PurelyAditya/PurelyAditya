@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey ! 👋
 
 # 💫 About Me:
 I'm currently working on: Backend development with Node.js  <br>I'm looking to collaborate on: Cool AI/ML projects  <br>I'm looking for help with: Building scalable backend systems and DevOps implementations  <br>I'm currently learning: Advanced backend patterns and DevOps tools 
