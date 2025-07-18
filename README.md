@@ -3,7 +3,8 @@
 # 💫 About Me:
 I'm currently working on: Backend development with Node.js  <br>I'm looking to collaborate on: Cool AI/ML projects  <br>I'm looking for help with: Building scalable backend systems and DevOps implementations  <br>I'm currently learning: Advanced backend patterns and DevOps tools 
 
-![f9b88deeae101d6a8572063bb63c286e](https://github.com/user-attachments/assets/c7915561-3f7f-4186-a8d9-dc6d14cbd308)
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/3d2e5dc3-4a47-439f-98fe-8bcf85a265c9)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-paul-a4457a288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/i_aditya_paul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditkumar619@gmail.com) 
