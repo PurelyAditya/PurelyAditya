@@ -22,7 +22,7 @@
 
 # 💻 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,css,js,java,md,nextjs,nestjs,nodejs,mongodb,numpy,sklearn,github,git" />
+<img src="https://skillicons.dev/icons?i=c,css,js,java,md,nextjs,nestjs,nodejs,mongodb,sklearn,github,git" />
 </p>
 
 
@@ -38,8 +38,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PurelyAditya&theme=radical&hide_border=true)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PurelyAditya&layout=compact&theme=radical&hide_border=true)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PurelyAditya&theme=radical&hide_border=true&bg_color=0D1117&color=FF6E96&line=FCA17D&point=F9D423)
