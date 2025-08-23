@@ -1,42 +1,39 @@
-## Hey there! 👋
+Hey there! 👋 I'm Aditya Paul
+A Backend Developer, AI/ML Enthusiast, and Lifelong Learner
+🚀 About Me
+🔭 I’m currently working on Backend development with Node.js.
 
-# 🚀 About Me
-- 🔭 Working on: **Backend development with Node.js**  
-- 🤝 Looking to collaborate on: **AI/ML projects**  
-- 🛠️ Seeking help with: **Scalable backend systems & DevOps implementations**  
-- 🌱 Currently learning: **Advanced backend patterns & DevOps tools**
+🤝 I’m looking to collaborate on exciting AI/ML projects.
 
----
+🛠️ I’m seeking help with scalable backend systems & DevOps implementations.
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aditya-paul-a4457a288/) 
-[![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white&style=flat-square)](https://x.com/i_aditya_paul) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:aditkumar619@gmail.com)
+🌱 I’m currently learning advanced backend patterns & DevOps tools.
 
----
+🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-paul-a4457a288/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="aditya-paul" /></a>
+<a href="https://x.com/i_aditya_paul" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white&style=for-the-badge" alt="i_aditya_paul" /></a>
+<a href="mailto:aditkumar619@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="aditkumar619" /></a>
+</p>
 
-# 💻 Tech Stack
+💻 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,css,js,java,md,nextjs,nestjs,nodejs,mongodb,numpy,sklearn,github,git" />
 </p>
 
----
-
-# 📊 GitHub Stats
+📊 My GitHub Stats
 <div align="center">
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PurelyAditya&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PurelyAditya&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PurelyAditya&layout=compact&theme=radical&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PurelyAditya&theme=radical&hide_border=true&bg_color=0D1117&color=FF6E96&line=FCA17D&point=F9D423)
+
+
+
+
+
+
+
+
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PurelyAditya&icon=5&color=12" />
-</p>
