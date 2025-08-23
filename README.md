@@ -1,8 +1,7 @@
-<!-- Typing animation header -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A4&width=435&lines=Hey+there!+👋+I'm+Aditya;Backend+Developer+%7C+AI%2FML+Enthusiast;Always+learning+and+building+cool+stuff!)](https://git.io/typing-svg)
 
 ---
-
 ## 👋 Hey there, I’m Aditya!
 
 💻 **Backend Developer | AI/ML Enthusiast | Problem Solver**  
@@ -56,6 +55,6 @@
 </div>
 
 
----
+
 
 
