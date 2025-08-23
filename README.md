@@ -1,11 +1,21 @@
-## Hey there! 👋
+<!-- Typing animation header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A4&width=435&lines=Hey+there!+👋+I'm+Aditya;Backend+Developer+%7C+AI%2FML+Enthusiast;Always+learning+and+building+cool+stuff!)](https://git.io/typing-svg)
 
+---
 
-# 🚀 About Me
-- 🔭 Working on: **Backend development with Node.js**  
-- 🤝 Looking to collaborate on: **AI/ML projects**  
-- 🛠️ Seeking help with: **Scalable backend systems & DevOps implementations**  
-- 🌱 Currently learning: **Advanced backend patterns & DevOps tools**
+## 👋 Hey there, I’m Aditya!  
+
+💻 **Backend Developer | AI/ML Enthusiast | Problem Solver**  
+
+---
+
+### 🚀 What I’m Up To  
+- 🔭 Currently building **scalable backend systems with Node.js**  
+- 🤝 Open to collaborating on **AI/ML-driven projects** that make real impact  
+- 🛠️ Exploring **DevOps tools & cloud-native architectures** for reliability and scale  
+- 🌱 Deep-diving into **advanced backend patterns, CI/CD, and containerization**  
+
+---
 
 
 ---
